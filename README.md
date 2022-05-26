@@ -7,7 +7,7 @@
 1. Player wins when the score is  >= `100`.
 2. Score `reset` when player roll number `1`;
 
-- Hold button is store score of player.
+- Hold button will store the score of player.
 
 #### `Link`
 https://mlmariscotes.github.io/Dice-Game/
