@@ -6,7 +6,7 @@
 #### `Rules`
 1. Player wins when the score is  >= `100`.
 2. Score `reset` when player roll number `1` and will switch player.;
-3. `Hold` will end player turn.
+3. `Hold` will end player turn and store player score.
 
 #### `Link`
 https://mlmariscotes.github.io/Dice-Game/
