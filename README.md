@@ -8,9 +8,6 @@
 2. Score `reset` when player roll number `1` and will switch player.;
 3. `Hold` will end player turn and store player score.
 
-#### `Link`
-https://mlmariscotes.github.io/Dice-Game/
-
 #### `In Game`
 ![image](https://user-images.githubusercontent.com/99033220/170617633-31d29a8d-5224-485b-a6db-c69f4133d5bc.png)
 
